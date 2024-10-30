@@ -1,0 +1,4 @@
+1,Haris Poteris ir Isminties Akmuo,J.K. Rowling,1997,Fantasy
+2,Karas ir taika,Leo Tolstoy,1869,Classic
+3,1984,George Orwell,1949,Dystopian
+4,Didysis Getsbis,F. Scott Fitzgerald,1925,Classic
